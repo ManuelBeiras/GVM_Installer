@@ -6,12 +6,13 @@
 ##        Si la instalación de todos los componentes se hace en una misma máquina                      ##
 ##        queda una versión completamente operativa. Si se instala en diferentes máquinas              ##
 ##        es necesario modificar la configuración manualmente.                                         ##
-##        Instalación completamente automática solo se pide cambio de contraseña al final              ##
+##        Instalación completamente automática solo se pide cambio de contraseña al final si quieres.  ##
 ##                                                                                                     ##
 ##Autores:                                                                                             ##
 ##			Manuel José Beiras Belloso																   ##
 ##			Rubén Míguez Bouzas										                                   ##
 ##			Luis Mera Castro										                                   ##
+## Source: https://github.com/greenbone								       ##
 #########################################################################################################
 
 # Comprobación inicial que valida si se es root y si el sistema operativo es Ubutu
