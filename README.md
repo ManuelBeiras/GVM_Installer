@@ -1,4 +1,4 @@
-# GVM_Installer ✅ ![](https://progress-bar.dev/100/?title=Ubuntu) ❌ ![](https://progress-bar.dev/10/?title=Centos)
+# GVM_Installer 21.04 ✅ ![](https://progress-bar.dev/100/?title=Ubuntu) ❌ ![](https://progress-bar.dev/10/?title=Centos)
 
 Descargar y convertir en ejecutable:
 
