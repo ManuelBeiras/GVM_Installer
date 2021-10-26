@@ -2,7 +2,7 @@
 #########################################################################################################
 ##Script de instalación de Greenbone 											                           ##
 ##Fecha: 22/10/2021                                                                                    ##
-##Versión 1.0:  Permite la instalacion simple de Greenbone versión 21.04.							                   ##
+##Versión 1.0:  Permite la instalacion simple de Greenbone versión 21.4.3.							                   ##
 ##        Si la instalación de todos los componentes se hace en una misma máquina                      ##
 ##        queda una versión completamente operativa. Si se instala en diferentes máquinas              ##
 ##        es necesario modificar la configuración manualmente.                                         ##
