@@ -3,7 +3,7 @@
 Descargar y convertir en ejecutable:
 
 ```bash
-curl -O https://raw.githubusercontent.com/ManuelBeiras/GVM_Installer/main/instalar_gvm.sh
+curl -O https://raw.githubusercontent.com/ManuelBeiras/GVM_Installer/main/gvm_installer.sh
 chmod +x gvm_installer.sh
 ```
 Ejecutar:
